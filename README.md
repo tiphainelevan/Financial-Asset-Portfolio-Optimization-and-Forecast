@@ -1,4 +1,4 @@
-# Fnancial-Asset-Portfolio-Optimization-and-Forecast
+# Financial-Asset-Portfolio-Optimization-and-Forecast
 
 > A weekly, factor-driven stock-picking workflow that forecasts returns, then builds a 25-stock portfolio via linear optimization to maximize excess return while controlling risk.
 
